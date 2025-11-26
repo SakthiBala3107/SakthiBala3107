@@ -1,10 +1,10 @@
 ## Hi, I'm SakthiBala ✨
 
-🧠 Frontend developer obsessed with clean design and smooth, intentional interactions
-🌌 I love crafting minimal, theme-driven interfaces that feel consistent and thoughtful
-✨ Always exploring refined animation and motion to bring interfaces to life
-🪻 Browse my projects, components, and dev resources across my GitHub
-⚙️ Occasionally dabble in backend when curiosity calls
+🧠 Frontend developer obsessed with clean design and smooth, intentional interactions <br/>
+🌌 I love crafting minimal, theme-driven interfaces that feel consistent and thoughtful <br/>
+✨ Always exploring refined animation and motion to bring interfaces to life <br/>
+🪻 Browse my projects, components, and dev resources across my GitHub <br/>
+⚙️ Occasionally dabble in backend when curiosity calls <br/>
 
 
 ## Skills ​
@@ -28,18 +28,11 @@
 
 ## GitHub Stats 🌱
 
-<table cellpadding="6">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl" alt="Repos Per Language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl" alt="Most Commit Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl" alt="Most Commit Languages" />
 
 <br/>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SakthiBala3107&theme=nightowl&hide_border=false)<br/>
