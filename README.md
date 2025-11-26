@@ -1,11 +1,11 @@
 
 ## Hi, I'm SakthiBala ✨
 
-🧠 Frontend developer obsessed with clean design, smooth interactions, and modern web experiences <br/>
-🌌 I craft minimal, theme-driven interfaces using React, TypeScript, and Tailwind CSS — everything consistent, everything intentional <br/>
-✨ Exploring GSAP and Framer Motion to craft refined, fluid interactions that breathe life into every interface <br/>
-🪻 Explore  my projects, components, and helpful dev resources across my GitHub <br/>
-⚙️ Sometimes I slip into the backend world too — building APIs with Node.js, Express, MongoDB & Mongoose <br/>
+🧠 Frontend developer obsessed with clean design and smooth, intentional interactions
+🌌 I love crafting minimal, theme-driven interfaces that feel consistent and thoughtful
+✨ Always exploring refined animation and motion to bring interfaces to life
+🪻 Browse my projects, components, and dev resources across my GitHub
+⚙️ Occasionally dabble in backend when curiosity calls
 
 
 ## Skills  
@@ -29,12 +29,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=SakthiBala3107&theme=nightowl&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiBala3107&theme=nightowl&hide_border=false&layout=compact)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakthiBala3107&theme=nightowl&hide_border=true)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
