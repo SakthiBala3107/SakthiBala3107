@@ -32,6 +32,17 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakthiBala3107&theme=nightowl&hide_border=true)
 
+![Better Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl)
+
+![Commits Per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl)
+
+![Repo Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SakthiBala3107&theme=nightowl)
+
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SakthiBala3107&theme=nightowl)
+
+
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SakthiBala3107&theme=nightowl&hide_border=false)<br/>
