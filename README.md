@@ -41,7 +41,7 @@
 ![Most Commit Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl)
 
 
-![Commits Per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl)
+![Commits Per Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl)
 
 ![Repo Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SakthiBala3107&theme=nightowl)
 
