@@ -27,31 +27,29 @@
 
 
 ## GitHub Stats
-## GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakthiBala3107&theme=nightowl&hide_border=true)
 
-<!-- Two-column grid for top charts -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl" 
-        width="100%" 
-      />
-    </td>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl" 
-        width="100%" 
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; gap: 10px; width: 100%;">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl" 
+    alt="Most Commit Languages" 
+    style="width: 49%;"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl" 
+    alt="Repos Per Language" 
+    style="width: 49%;"
+  />
+
+</div>
 
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SakthiBala3107&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
