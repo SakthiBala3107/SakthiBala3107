@@ -7,7 +7,7 @@
 ⚙️ Occasionally dabble in backend when curiosity calls
 
 
-## Skills  
+## Skills ​
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -26,9 +26,9 @@
 
 
 
-## GitHub Stats
+## GitHub Stats 🌱
 
-<table>
+<table cellpadding="6">
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl" alt="Repos Per Language" />
@@ -39,11 +39,11 @@
   </tr>
 </table>
 
-
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SakthiBala3107&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
