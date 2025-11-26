@@ -1,4 +1,3 @@
-
 ## Hi, I'm SakthiBala ✨
 
 🧠 Frontend developer obsessed with clean design and smooth, intentional interactions
@@ -28,24 +27,31 @@
 
 
 ## GitHub Stats
-
+## GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakthiBala3107&theme=nightowl&hide_border=true)
 
-![Better Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl)
+<!-- Two-column grid for top charts -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl" 
+        width="100%" 
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+</table>
 
-![Top Langs Bar Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiBala3107&theme=nightowl)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiBala3107&hide=javascript,css,scss,html&theme=nightowl)
-
-
-
-
-
+<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SakthiBala3107&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
