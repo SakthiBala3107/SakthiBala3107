@@ -29,7 +29,6 @@
 ## GitHub Stats 🌱
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl" alt="Most Commit Languages" />
 
 <br/>
 
