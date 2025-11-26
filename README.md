@@ -36,9 +36,10 @@
 
 ![Top Langs Bar Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl)
 
-![Top Langs Bar Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl)
+![Top Languages Bar](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl)
 
-![Top Langs Bar Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl)
+![Most Commit Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl)
+
 
 ![Commits Per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl)
 
