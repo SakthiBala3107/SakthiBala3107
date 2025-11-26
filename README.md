@@ -28,21 +28,16 @@
 
 ## GitHub Stats
 
-<div style="display: flex; width: 100%;">
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl"
-    alt="Repos Per Language"
-    style="flex: 1; margin-right: 6px;"
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl"
-    alt="Most Commit Languages"
-    style="flex: 1; margin-left: 6px;"
-  />
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl" alt="Most Commit Languages" />
+    </td>
+  </tr>
+</table>
 
 
 <br/>
