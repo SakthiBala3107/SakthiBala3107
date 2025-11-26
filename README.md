@@ -28,23 +28,22 @@
 
 ## GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakthiBala3107&theme=nightowl&hide_border=true)
-
-<div style="display: flex; justify-content: space-between; gap: 10px; width: 100%;">
+<div style="display: flex; width: 100%;">
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl" 
-    alt="Most Commit Languages" 
-    style="width: 49%;"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl"
+    alt="Repos Per Language"
+    style="flex: 1; margin-right: 6px;"
   />
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakthiBala3107&theme=nightowl" 
-    alt="Repos Per Language" 
-    style="width: 49%;"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiBala3107&theme=nightowl"
+    alt="Most Commit Languages"
+    style="flex: 1; margin-left: 6px;"
   />
 
 </div>
+
 
 <br/>
 
