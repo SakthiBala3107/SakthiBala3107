@@ -1,6 +1,6 @@
 ## Hi, I'm SakthiBala ✨
 
-🧠 Frontend developer obsessed with clean design and smooth, intentional interactions <br/>
+🧠 Full-Stack developer obsessed with clean design and smooth, intentional interactions <br/>
 🌌 I love crafting minimal, theme-driven interfaces that feel consistent and thoughtful <br/>
 ✨ Always exploring refined animation and motion to bring interfaces to life <br/>
 🪻 Browse my projects, components, and dev resources across my GitHub <br/>
