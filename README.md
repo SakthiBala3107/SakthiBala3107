@@ -46,7 +46,6 @@
 
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SakthiBala3107&theme=midnight-purple&hide_border=false)
 
 
 
