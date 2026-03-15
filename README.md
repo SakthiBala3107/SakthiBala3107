@@ -4,7 +4,7 @@
 🌌 I love crafting minimal, theme-driven interfaces that feel consistent and thoughtful <br/>
 ✨ Always exploring refined animation and motion to bring interfaces to life <br/>
 🪻 Browse my projects, components, and dev resources across my GitHub <br/>
-⚙️ Occasionally dabble in backend when curiosity calls <br/>
+⚙️ Occasionally dabble in backend when curiosity calls.... <br/>
 
 
 ## Skills ​🌸
