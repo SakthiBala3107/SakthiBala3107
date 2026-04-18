@@ -44,7 +44,18 @@
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SakthiBala3107&theme=midnight-purple&hide_border=false)
+![](https://streak-stats.demolab.com/?user=SakthiBala3107&theme=nightowl&hide_border=false)
+//
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SakthiBala3107&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=SakthiBala3107&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
